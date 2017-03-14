@@ -1,0 +1,1 @@
+ADD_LIBRARY(cblaswr STATIC cblaswr.c)
